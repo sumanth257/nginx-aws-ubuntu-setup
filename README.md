@@ -78,7 +78,7 @@ sudo ufw allow 3000
 
 ********************************Then reload**************
 
-http://<EC2-PUBLIC-IP>:3000
+http://<EC2-PUBLIC-IP>:**3000**    
 
 
                    Welcome to nginx!
@@ -87,7 +87,7 @@ http://<EC2-PUBLIC-IP>:3000
                     For online documentation and support please refer to nginx.org.
                     Commercial support is available at nginx.com.
 
-                     Thank you for using nginx.
+                     Thank you for using Nginx.
 
 
 

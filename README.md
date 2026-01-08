@@ -91,6 +91,14 @@ http://<EC2-PUBLIC-IP>:**3000**
 
 
 
+          ******Multiple Ports at the Same Time*******
+
+                       server {
+                                    listen 3000;
+                                    listen 8081;
+                                    listen 9090;
+                                    root /var/www/html;
+                              }
 
 
 

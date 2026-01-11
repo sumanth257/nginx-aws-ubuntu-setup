@@ -56,7 +56,7 @@ sudo nano /etc/nginx/sites-available/default ------>   server {        change to
 
                                                                           Listen [::]:8080 default_server;
 
-                                                                        # SSL configuration
+                                                                        
 
                                                             root /var/www/html;
                                                                }
